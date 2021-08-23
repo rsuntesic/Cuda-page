@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<title>Team</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #bdd1df } 
+	</style>
+	<g id="Team">
+		<g id="1">
+			<g id="Contacts">
+				<g id="Mail icon">
+					<path id="Base" class="shp0" d="M16 0C24.84 0 32 7.16 32 16C32 24.84 24.84 32 16 32C7.16 32 0 24.84 0 16C0 7.16 7.16 0 16 0Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
